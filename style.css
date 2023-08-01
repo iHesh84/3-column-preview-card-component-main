@@ -77,7 +77,7 @@ body {
   background-color: var(--clr-neutral-vlGray);
   display: grid;
   place-content: center;
-  height: 100vh;
+  height: 130vh;
   font-family: var(--ff-regular);
   color: var(--clr-neutral-tWhite);
 }
